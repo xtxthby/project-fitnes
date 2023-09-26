@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xtxthby/project-fitnes/static/css/main.7acaea2f.css",
+    "main.js": "/xtxthby/project-fitnes/static/js/main.07d3183d.js",
+    "index.html": "/xtxthby/project-fitnes/index.html",
+    "main.7acaea2f.css.map": "/xtxthby/project-fitnes/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/xtxthby/project-fitnes/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
